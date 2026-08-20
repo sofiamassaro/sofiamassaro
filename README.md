@@ -12,7 +12,7 @@
 
 ## 🛠️ Tecnologias:
 
-**Languages**
+**Linguagens**
 
 <img src="https://skillicons.dev/icons?i=python,js" alt="Python, JavaScript" />&nbsp;<img src="https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=mysql&logoColor=white" height="48" alt="SQL" />
 
@@ -20,7 +20,7 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" alt="HTML, CSS, Tailwind, React, Next.js" />
 
-**Databases**
+**Banco de Dados**
 
 <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
 
