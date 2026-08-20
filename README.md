@@ -10,6 +10,24 @@
 - Ver o por do sol
 
 
+## 🛠️ Tecnologias:
+
+**Linguagens**
+
+<img src="https://skillicons.dev/icons?i=python,js" alt="Python, JavaScript" />&nbsp;<img src="https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=mysql&logoColor=white" height="48" alt="SQL" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" alt="HTML, CSS, Tailwind, React, Next.js" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=postman,npm,nodejs " alt="Postman, NPM, Node.js" />
+
+**Banco de Dados**
+
+<img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
+
 <!-- <div id = "some_issues">
   <p>It is a little list of problems you can face while implementing this kind of stuff</p>
   <ul id = "problem_list">
