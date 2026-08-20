@@ -20,6 +20,10 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" alt="HTML, CSS, Tailwind, React, Next.js" />
 
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=postman,npm,node.js " alt="Postman, NPM, Node.js" />
+
 **Banco de Dados**
 
 <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
