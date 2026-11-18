@@ -18,11 +18,11 @@
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" alt="HTML, CSS, Tailwind, React, Next.js" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs" alt="HTML, CSS, React, Next.js" />
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=postman,npm,nodejs " alt="Postman, NPM, Node.js" />
+<img src="https://skillicons.dev/icons?i=postman,npm,nodejs " alt="Postman, Node.js" />
 
 **Banco de Dados**
 
