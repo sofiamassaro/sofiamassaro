@@ -22,7 +22,7 @@
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=postman,npm,nodejs " alt="Postman, Node.js" />
+<img src="https://skillicons.dev/icons?i=postman,nodejs " alt="Postman, Node.js" />
 
 **Banco de Dados**
 
